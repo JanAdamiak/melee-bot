@@ -1,0 +1,1234 @@
+[
+  {
+    "Rank": 284,
+    "TeamId": 3780592,
+    "Team": {
+      "ID": 3780592,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "SwiftGecko",
+          "DisplayName": "SwiftGecko"
+        }
+      ]
+    },
+    "Points": 9,
+    "MatchRecord": "3-5-0",
+    "GameRecord": "7-11-0",
+    "OpponentMatchWinPercentage": 0.55729167,
+    "TeamGameWinPercentage": 0.38888889,
+    "OpponentGameWinPercentage": 0.54743018,
+    "FinalTiebreaker": 3780592.0,
+    "OpponentCount": 8
+  },
+  {
+    "Rank": 4,
+    "TeamId": 3780596,
+    "Team": {
+      "ID": 3780596,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "ShadyIbex",
+          "DisplayName": "ShadyIbex"
+        }
+      ]
+    },
+    "Points": 30,
+    "MatchRecord": "10-2-0",
+    "GameRecord": "22-7-0",
+    "OpponentMatchWinPercentage": 0.65509259,
+    "TeamGameWinPercentage": 0.75862069,
+    "OpponentGameWinPercentage": 0.57422716,
+    "FinalTiebreaker": 3780596.0,
+    "OpponentCount": 12
+  },
+  {
+    "Rank": 56,
+    "TeamId": 3780605,
+    "Team": {
+      "ID": 3780605,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "TidalOtter",
+          "DisplayName": "TidalOtter"
+        }
+      ]
+    },
+    "Points": 21,
+    "MatchRecord": "7-5-0",
+    "GameRecord": "17-14-0",
+    "OpponentMatchWinPercentage": 0.58217593,
+    "TeamGameWinPercentage": 0.5483871,
+    "OpponentGameWinPercentage": 0.55043125,
+    "FinalTiebreaker": 3780605.0,
+    "OpponentCount": 12
+  },
+  {
+    "Rank": 87,
+    "TeamId": 3780623,
+    "Team": {
+      "ID": 3780623,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "BoldTiger",
+          "DisplayName": "BoldTiger"
+        }
+      ]
+    },
+    "Points": 15,
+    "MatchRecord": "5-3-0",
+    "GameRecord": "11-7-0",
+    "OpponentMatchWinPercentage": 0.59375,
+    "TeamGameWinPercentage": 0.61111111,
+    "OpponentGameWinPercentage": 0.58239379,
+    "FinalTiebreaker": 3780623.0,
+    "OpponentCount": 8
+  },
+  {
+    "Rank": 279,
+    "TeamId": 3780632,
+    "Team": {
+      "ID": 3780632,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "SilentFerret",
+          "DisplayName": "SilentFerret"
+        }
+      ]
+    },
+    "Points": 9,
+    "MatchRecord": "3-5-0",
+    "GameRecord": "10-12-0",
+    "OpponentMatchWinPercentage": 0.625,
+    "TeamGameWinPercentage": 0.45454545,
+    "OpponentGameWinPercentage": 0.59047619,
+    "FinalTiebreaker": 3780632.0,
+    "OpponentCount": 8
+  },
+  {
+    "Rank": 35,
+    "TeamId": 3780644,
+    "Team": {
+      "ID": 3780644,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "SleepyMeadow",
+          "DisplayName": "Indy Ashdown"
+        }
+      ]
+    },
+    "Points": 24,
+    "MatchRecord": "8-4-0",
+    "GameRecord": "19-11-0",
+    "OpponentMatchWinPercentage": 0.60648148,
+    "TeamGameWinPercentage": 0.63333333,
+    "OpponentGameWinPercentage": 0.56106471,
+    "FinalTiebreaker": 3780644.0,
+    "OpponentCount": 12
+  },
+  {
+    "Rank": 230,
+    "TeamId": 3780658,
+    "Team": {
+      "ID": 3780658,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "SableCondor",
+          "DisplayName": "SableCondor"
+        }
+      ]
+    },
+    "Points": 12,
+    "MatchRecord": "4-4-0",
+    "GameRecord": "10-10-0",
+    "OpponentMatchWinPercentage": 0.4985119,
+    "TeamGameWinPercentage": 0.5,
+    "OpponentGameWinPercentage": 0.51845822,
+    "FinalTiebreaker": 3780658.0,
+    "OpponentCount": 8
+  },
+  {
+    "Rank": 11,
+    "TeamId": 3780666,
+    "Team": {
+      "ID": 3780666,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "LuckyGlacier",
+          "DisplayName": "LuckyGlacier"
+        }
+      ]
+    },
+    "Points": 27,
+    "MatchRecord": "9-3-0",
+    "GameRecord": "19-10-0",
+    "OpponentMatchWinPercentage": 0.70023148,
+    "TeamGameWinPercentage": 0.65517241,
+    "OpponentGameWinPercentage": 0.62618196,
+    "FinalTiebreaker": 3780666.0,
+    "OpponentCount": 12
+  },
+  {
+    "Rank": 36,
+    "TeamId": 3780688,
+    "Team": {
+      "ID": 3780688,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "CinderWillow",
+          "DisplayName": "CinderWillow"
+        }
+      ]
+    },
+    "Points": 24,
+    "MatchRecord": "8-4-0",
+    "GameRecord": "17-11-0",
+    "OpponentMatchWinPercentage": 0.59722222,
+    "TeamGameWinPercentage": 0.60714286,
+    "OpponentGameWinPercentage": 0.5616827,
+    "FinalTiebreaker": 3780688.0,
+    "OpponentCount": 11
+  },
+  {
+    "Rank": 9,
+    "TeamId": 3780701,
+    "Team": {
+      "ID": 3780701,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "KeenYak96",
+          "DisplayName": "KeenYak96"
+        }
+      ]
+    },
+    "Points": 30,
+    "MatchRecord": "10-2-0",
+    "GameRecord": "21-7-0",
+    "OpponentMatchWinPercentage": 0.60416667,
+    "TeamGameWinPercentage": 0.75,
+    "OpponentGameWinPercentage": 0.57232923,
+    "FinalTiebreaker": 3780701.0,
+    "OpponentCount": 12
+  },
+  {
+    "Rank": 237,
+    "TeamId": 3780718,
+    "Team": {
+      "ID": 3780718,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "SwiftKiwi78",
+          "DisplayName": "SwiftKiwi78"
+        }
+      ]
+    },
+    "Points": 12,
+    "MatchRecord": "4-4-0",
+    "GameRecord": "12-8-0",
+    "OpponentMatchWinPercentage": 0.484375,
+    "TeamGameWinPercentage": 0.6,
+    "OpponentGameWinPercentage": 0.4808584,
+    "FinalTiebreaker": 3780718.0,
+    "OpponentCount": 8
+  },
+  {
+    "Rank": 54,
+    "TeamId": 3780727,
+    "Team": {
+      "ID": 3780727,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "NobleComet",
+          "DisplayName": "NobleComet"
+        }
+      ]
+    },
+    "Points": 21,
+    "MatchRecord": "7-5-0",
+    "GameRecord": "17-13-0",
+    "OpponentMatchWinPercentage": 0.60416667,
+    "TeamGameWinPercentage": 0.56666667,
+    "OpponentGameWinPercentage": 0.56264986,
+    "FinalTiebreaker": 3780727.0,
+    "OpponentCount": 12
+  },
+  {
+    "Rank": 280,
+    "TeamId": 3780728,
+    "Team": {
+      "ID": 3780728,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "IvoryLantern",
+          "DisplayName": "IvoryLantern"
+        }
+      ]
+    },
+    "Points": 9,
+    "MatchRecord": "3-5-0",
+    "GameRecord": "6-11-1",
+    "OpponentMatchWinPercentage": 0.59895833,
+    "TeamGameWinPercentage": 0.35185185,
+    "OpponentGameWinPercentage": 0.57173616,
+    "FinalTiebreaker": 3780728.0,
+    "OpponentCount": 8
+  },
+  {
+    "Rank": 29,
+    "TeamId": 3780735,
+    "Team": {
+      "ID": 3780735,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "ShadyFennec",
+          "DisplayName": "ShadyFennec"
+        }
+      ]
+    },
+    "Points": 25,
+    "MatchRecord": "8-3-1",
+    "GameRecord": "17-9-3",
+    "OpponentMatchWinPercentage": 0.58796296,
+    "TeamGameWinPercentage": 0.62068966,
+    "OpponentGameWinPercentage": 0.55279846,
+    "FinalTiebreaker": 3780735.0,
+    "OpponentCount": 12
+  },
+  {
+    "Rank": 12,
+    "TeamId": 3780739,
+    "Team": {
+      "ID": 3780739,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "CrimsonIbex",
+          "DisplayName": "CrimsonIbex"
+        }
+      ]
+    },
+    "Points": 27,
+    "MatchRecord": "9-3-0",
+    "GameRecord": "21-9-0",
+    "OpponentMatchWinPercentage": 0.66003788,
+    "TeamGameWinPercentage": 0.7,
+    "OpponentGameWinPercentage": 0.58729955,
+    "FinalTiebreaker": 3780739.0,
+    "OpponentCount": 12
+  },
+  {
+    "Rank": 50,
+    "TeamId": 3780770,
+    "Team": {
+      "ID": 3780770,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "PluckyQuail",
+          "DisplayName": "PluckyQuail"
+        }
+      ]
+    },
+    "Points": 21,
+    "MatchRecord": "7-5-0",
+    "GameRecord": "16-13-0",
+    "OpponentMatchWinPercentage": 0.62731481,
+    "TeamGameWinPercentage": 0.55172414,
+    "OpponentGameWinPercentage": 0.56824165,
+    "FinalTiebreaker": 3780770.0,
+    "OpponentCount": 12
+  },
+  {
+    "Rank": 6,
+    "TeamId": 3780774,
+    "Team": {
+      "ID": 3780774,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "HollowYak",
+          "DisplayName": "HollowYak"
+        }
+      ]
+    },
+    "Points": 30,
+    "MatchRecord": "10-2-0",
+    "GameRecord": "21-7-0",
+    "OpponentMatchWinPercentage": 0.63558201,
+    "TeamGameWinPercentage": 0.75,
+    "OpponentGameWinPercentage": 0.59094065,
+    "FinalTiebreaker": 3780774.0,
+    "OpponentCount": 12
+  },
+  {
+    "Rank": 101,
+    "TeamId": 3780777,
+    "Team": {
+      "ID": 3780777,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "ShadyTiger",
+          "DisplayName": "ShadyTiger"
+        }
+      ]
+    },
+    "Points": 15,
+    "MatchRecord": "5-3-0",
+    "GameRecord": "12-7-0",
+    "OpponentMatchWinPercentage": 0.57291667,
+    "TeamGameWinPercentage": 0.63157895,
+    "OpponentGameWinPercentage": 0.54085005,
+    "FinalTiebreaker": 3780777.0,
+    "OpponentCount": 8
+  },
+  {
+    "Rank": 3,
+    "TeamId": 3780778,
+    "Team": {
+      "ID": 3780778,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "IndigoLynx54",
+          "DisplayName": "IndigoLynx54"
+        }
+      ]
+    },
+    "Points": 30,
+    "MatchRecord": "10-2-0",
+    "GameRecord": "22-11-0",
+    "OpponentMatchWinPercentage": 0.70138889,
+    "TeamGameWinPercentage": 0.66666667,
+    "OpponentGameWinPercentage": 0.63725217,
+    "FinalTiebreaker": 3780778.0,
+    "OpponentCount": 12
+  },
+  {
+    "Rank": 148,
+    "TeamId": 3780788,
+    "Team": {
+      "ID": 3780788,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "CrimsonHarbor",
+          "DisplayName": "CrimsonHarbor"
+        }
+      ]
+    },
+    "Points": 13,
+    "MatchRecord": "4-3-1",
+    "GameRecord": "9-9-3",
+    "OpponentMatchWinPercentage": 0.56770833,
+    "TeamGameWinPercentage": 0.47619048,
+    "OpponentGameWinPercentage": 0.53350103,
+    "FinalTiebreaker": 3780788.0,
+    "OpponentCount": 8
+  },
+  {
+    "Rank": 53,
+    "TeamId": 3780797,
+    "Team": {
+      "ID": 3780797,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "BoldLark",
+          "DisplayName": "BoldLark"
+        }
+      ]
+    },
+    "Points": 21,
+    "MatchRecord": "7-5-0",
+    "GameRecord": "17-10-0",
+    "OpponentMatchWinPercentage": 0.60509259,
+    "TeamGameWinPercentage": 0.62962963,
+    "OpponentGameWinPercentage": 0.56312357,
+    "FinalTiebreaker": 3780797.0,
+    "OpponentCount": 12
+  },
+  {
+    "Rank": 15,
+    "TeamId": 3780801,
+    "Team": {
+      "ID": 3780801,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "IronTundra",
+          "DisplayName": "IronTundra"
+        }
+      ]
+    },
+    "Points": 27,
+    "MatchRecord": "9-3-0",
+    "GameRecord": "18-9-0",
+    "OpponentMatchWinPercentage": 0.6400463,
+    "TeamGameWinPercentage": 0.66666667,
+    "OpponentGameWinPercentage": 0.60416071,
+    "FinalTiebreaker": 3780801.0,
+    "OpponentCount": 12
+  },
+  {
+    "Rank": 97,
+    "TeamId": 3780814,
+    "Team": {
+      "ID": 3780814,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "MellowPebble",
+          "DisplayName": "MellowPebble"
+        }
+      ]
+    },
+    "Points": 15,
+    "MatchRecord": "5-3-0",
+    "GameRecord": "11-9-0",
+    "OpponentMatchWinPercentage": 0.58854167,
+    "TeamGameWinPercentage": 0.55,
+    "OpponentGameWinPercentage": 0.52654411,
+    "FinalTiebreaker": 3780814.0,
+    "OpponentCount": 8
+  },
+  {
+    "Rank": 33,
+    "TeamId": 3780820,
+    "Team": {
+      "ID": 3780820,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "TidalQuail",
+          "DisplayName": "TidalQuail"
+        }
+      ]
+    },
+    "Points": 24,
+    "MatchRecord": "8-4-0",
+    "GameRecord": "18-13-0",
+    "OpponentMatchWinPercentage": 0.63541667,
+    "TeamGameWinPercentage": 0.58064516,
+    "OpponentGameWinPercentage": 0.58440947,
+    "FinalTiebreaker": 3780820.0,
+    "OpponentCount": 12
+  },
+  {
+    "Rank": 26,
+    "TeamId": 3780825,
+    "Team": {
+      "ID": 3780825,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "CedarDrake",
+          "DisplayName": "CedarDrake"
+        }
+      ]
+    },
+    "Points": 25,
+    "MatchRecord": "8-3-1",
+    "GameRecord": "16-7-3",
+    "OpponentMatchWinPercentage": 0.60648148,
+    "TeamGameWinPercentage": 0.65384615,
+    "OpponentGameWinPercentage": 0.58099418,
+    "FinalTiebreaker": 3780825.0,
+    "OpponentCount": 12
+  },
+  {
+    "Rank": 116,
+    "TeamId": 3780826,
+    "Team": {
+      "ID": 3780826,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "EmberMagpie",
+          "DisplayName": "Ari Kettleby"
+        }
+      ]
+    },
+    "Points": 15,
+    "MatchRecord": "5-3-0",
+    "GameRecord": "10-7-0",
+    "OpponentMatchWinPercentage": 0.53645833,
+    "TeamGameWinPercentage": 0.58823529,
+    "OpponentGameWinPercentage": 0.50288866,
+    "FinalTiebreaker": 3780826.0,
+    "OpponentCount": 8
+  },
+  {
+    "Rank": 7,
+    "TeamId": 3780827,
+    "Team": {
+      "ID": 3780827,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "JadeThistle",
+          "DisplayName": "Noel Stillwater"
+        }
+      ]
+    },
+    "Points": 30,
+    "MatchRecord": "10-2-0",
+    "GameRecord": "21-6-0",
+    "OpponentMatchWinPercentage": 0.62979497,
+    "TeamGameWinPercentage": 0.77777778,
+    "OpponentGameWinPercentage": 0.57377928,
+    "FinalTiebreaker": 3780827.0,
+    "OpponentCount": 12
+  },
+  {
+    "Rank": 16,
+    "TeamId": 3780832,
+    "Team": {
+      "ID": 3780832,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "SwiftFerret",
+          "DisplayName": "SwiftFerret"
+        }
+      ]
+    },
+    "Points": 27,
+    "MatchRecord": "9-3-0",
+    "GameRecord": "19-9-0",
+    "OpponentMatchWinPercentage": 0.625,
+    "TeamGameWinPercentage": 0.67857143,
+    "OpponentGameWinPercentage": 0.57182229,
+    "FinalTiebreaker": 3780832.0,
+    "OpponentCount": 12
+  },
+  {
+    "Rank": 71,
+    "TeamId": 3780838,
+    "Team": {
+      "ID": 3780838,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "PluckySparrow",
+          "DisplayName": "PluckySparrow"
+        }
+      ]
+    },
+    "Points": 15,
+    "MatchRecord": "5-3-0",
+    "GameRecord": "13-8-0",
+    "OpponentMatchWinPercentage": 0.71875,
+    "TeamGameWinPercentage": 0.61904762,
+    "OpponentGameWinPercentage": 0.61644737,
+    "FinalTiebreaker": 3780838.0,
+    "OpponentCount": 8
+  },
+  {
+    "Rank": 10,
+    "TeamId": 3780855,
+    "Team": {
+      "ID": 3780855,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "LuckyBirch",
+          "DisplayName": "LuckyBirch"
+        }
+      ]
+    },
+    "Points": 30,
+    "MatchRecord": "10-2-0",
+    "GameRecord": "21-9-0",
+    "OpponentMatchWinPercentage": 0.57175926,
+    "TeamGameWinPercentage": 0.7,
+    "OpponentGameWinPercentage": 0.54661435,
+    "FinalTiebreaker": 3780855.0,
+    "OpponentCount": 12
+  },
+  {
+    "Rank": 21,
+    "TeamId": 3780870,
+    "Team": {
+      "ID": 3780870,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "WildDingo",
+          "DisplayName": "WildDingo"
+        }
+      ]
+    },
+    "Points": 27,
+    "MatchRecord": "9-3-0",
+    "GameRecord": "19-8-0",
+    "OpponentMatchWinPercentage": 0.58217593,
+    "TeamGameWinPercentage": 0.7037037,
+    "OpponentGameWinPercentage": 0.55533287,
+    "FinalTiebreaker": 3780870.0,
+    "OpponentCount": 12
+  },
+  {
+    "Rank": 199,
+    "TeamId": 3780873,
+    "Team": {
+      "ID": 3780873,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "AshenWeasel",
+          "DisplayName": "AshenWeasel"
+        }
+      ]
+    },
+    "Points": 12,
+    "MatchRecord": "4-4-0",
+    "GameRecord": "9-11-0",
+    "OpponentMatchWinPercentage": 0.59375,
+    "TeamGameWinPercentage": 0.45,
+    "OpponentGameWinPercentage": 0.57847929,
+    "FinalTiebreaker": 3780873.0,
+    "OpponentCount": 8
+  },
+  {
+    "Rank": 79,
+    "TeamId": 3780886,
+    "Team": {
+      "ID": 3780886,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "SunnyToad43",
+          "DisplayName": "SunnyToad43"
+        }
+      ]
+    },
+    "Points": 15,
+    "MatchRecord": "5-3-0",
+    "GameRecord": "10-7-0",
+    "OpponentMatchWinPercentage": 0.625,
+    "TeamGameWinPercentage": 0.58823529,
+    "OpponentGameWinPercentage": 0.58383981,
+    "FinalTiebreaker": 3780886.0,
+    "OpponentCount": 8
+  },
+  {
+    "Rank": 30,
+    "TeamId": 3780887,
+    "Team": {
+      "ID": 3780887,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "CrimsonFennec48",
+          "DisplayName": "CrimsonFennec48"
+        }
+      ]
+    },
+    "Points": 24,
+    "MatchRecord": "8-4-0",
+    "GameRecord": "17-11-0",
+    "OpponentMatchWinPercentage": 0.68813131,
+    "TeamGameWinPercentage": 0.60714286,
+    "OpponentGameWinPercentage": 0.59679337,
+    "FinalTiebreaker": 3780887.0,
+    "OpponentCount": 11
+  },
+  {
+    "Rank": 2,
+    "TeamId": 3780902,
+    "Team": {
+      "ID": 3780902,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "CrimsonCricket",
+          "DisplayName": "CrimsonCricket"
+        }
+      ]
+    },
+    "Points": 31,
+    "MatchRecord": "10-1-1",
+    "GameRecord": "19-6-3",
+    "OpponentMatchWinPercentage": 0.66898148,
+    "TeamGameWinPercentage": 0.71428571,
+    "OpponentGameWinPercentage": 0.61719317,
+    "FinalTiebreaker": 3780902.0,
+    "OpponentCount": 12
+  },
+  {
+    "Rank": 305,
+    "TeamId": 3780905,
+    "Team": {
+      "ID": 3780905,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "FabledGecko73",
+          "DisplayName": "FabledGecko73"
+        }
+      ]
+    },
+    "Points": 9,
+    "MatchRecord": "3-5-0",
+    "GameRecord": "9-12-0",
+    "OpponentMatchWinPercentage": 0.49479167,
+    "TeamGameWinPercentage": 0.42857143,
+    "OpponentGameWinPercentage": 0.5062748,
+    "FinalTiebreaker": 3780905.0,
+    "OpponentCount": 8
+  },
+  {
+    "Rank": 74,
+    "TeamId": 3780915,
+    "Team": {
+      "ID": 3780915,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "CleverSalmon",
+          "DisplayName": "CleverSalmon"
+        }
+      ]
+    },
+    "Points": 15,
+    "MatchRecord": "5-3-0",
+    "GameRecord": "13-7-0",
+    "OpponentMatchWinPercentage": 0.65625,
+    "TeamGameWinPercentage": 0.65,
+    "OpponentGameWinPercentage": 0.59967105,
+    "FinalTiebreaker": 3780915.0,
+    "OpponentCount": 8
+  },
+  {
+    "Rank": 285,
+    "TeamId": 3780916,
+    "Team": {
+      "ID": 3780916,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "CobaltPuffin",
+          "DisplayName": "CobaltPuffin"
+        }
+      ]
+    },
+    "Points": 9,
+    "MatchRecord": "3-5-0",
+    "GameRecord": "9-11-0",
+    "OpponentMatchWinPercentage": 0.55520833,
+    "TeamGameWinPercentage": 0.45,
+    "OpponentGameWinPercentage": 0.53307347,
+    "FinalTiebreaker": 3780916.0,
+    "OpponentCount": 8
+  },
+  {
+    "Rank": 370,
+    "TeamId": 3780918,
+    "Team": {
+      "ID": 3780918,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "DustySummit29",
+          "DisplayName": "DustySummit29"
+        }
+      ]
+    },
+    "Points": 6,
+    "MatchRecord": "2-5-0",
+    "GameRecord": "4-11-0",
+    "OpponentMatchWinPercentage": 0.4702381,
+    "TeamGameWinPercentage": 0.33333333,
+    "OpponentGameWinPercentage": 0.49830963,
+    "FinalTiebreaker": 3780918.0,
+    "OpponentCount": 7
+  },
+  {
+    "Rank": 45,
+    "TeamId": 3780951,
+    "Team": {
+      "ID": 3780951,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "TidalPuffin",
+          "DisplayName": "TidalPuffin"
+        }
+      ]
+    },
+    "Points": 24,
+    "MatchRecord": "8-4-0",
+    "GameRecord": "19-13-0",
+    "OpponentMatchWinPercentage": 0.56134259,
+    "TeamGameWinPercentage": 0.59375,
+    "OpponentGameWinPercentage": 0.55072642,
+    "FinalTiebreaker": 3780951.0,
+    "OpponentCount": 12
+  },
+  {
+    "Rank": 25,
+    "TeamId": 3780953,
+    "Team": {
+      "ID": 3780953,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "CinderOsprey",
+          "DisplayName": "CinderOsprey"
+        }
+      ]
+    },
+    "Points": 25,
+    "MatchRecord": "8-3-1",
+    "GameRecord": "19-10-0",
+    "OpponentMatchWinPercentage": 0.64814815,
+    "TeamGameWinPercentage": 0.65517241,
+    "OpponentGameWinPercentage": 0.59006196,
+    "FinalTiebreaker": 3780953.0,
+    "OpponentCount": 12
+  },
+  {
+    "Rank": 14,
+    "TeamId": 3780966,
+    "Team": {
+      "ID": 3780966,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "SleepyOcelot",
+          "DisplayName": "SleepyOcelot"
+        }
+      ]
+    },
+    "Points": 27,
+    "MatchRecord": "9-3-0",
+    "GameRecord": "18-11-0",
+    "OpponentMatchWinPercentage": 0.64136905,
+    "TeamGameWinPercentage": 0.62068966,
+    "OpponentGameWinPercentage": 0.60889664,
+    "FinalTiebreaker": 3780966.0,
+    "OpponentCount": 12
+  },
+  {
+    "Rank": 96,
+    "TeamId": 3780970,
+    "Team": {
+      "ID": 3780970,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "WryHeron",
+          "DisplayName": "WryHeron"
+        }
+      ]
+    },
+    "Points": 15,
+    "MatchRecord": "5-3-0",
+    "GameRecord": "11-8-0",
+    "OpponentMatchWinPercentage": 0.58854167,
+    "TeamGameWinPercentage": 0.57894737,
+    "OpponentGameWinPercentage": 0.56683437,
+    "FinalTiebreaker": 3780970.0,
+    "OpponentCount": 8
+  },
+  {
+    "Rank": 1,
+    "TeamId": 3780972,
+    "Team": {
+      "ID": 3780972,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "StormyMeadow",
+          "DisplayName": "StormyMeadow"
+        }
+      ]
+    },
+    "Points": 31,
+    "MatchRecord": "10-1-1",
+    "GameRecord": "21-10-3",
+    "OpponentMatchWinPercentage": 0.67824074,
+    "TeamGameWinPercentage": 0.64705882,
+    "OpponentGameWinPercentage": 0.6117474,
+    "FinalTiebreaker": 3780972.0,
+    "OpponentCount": 12
+  },
+  {
+    "Rank": 34,
+    "TeamId": 3780985,
+    "Team": {
+      "ID": 3780985,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "GentleRaven",
+          "DisplayName": "GentleRaven"
+        }
+      ]
+    },
+    "Points": 24,
+    "MatchRecord": "8-4-0",
+    "GameRecord": "18-12-0",
+    "OpponentMatchWinPercentage": 0.63293651,
+    "TeamGameWinPercentage": 0.6,
+    "OpponentGameWinPercentage": 0.59034903,
+    "FinalTiebreaker": 3780985.0,
+    "OpponentCount": 12
+  },
+  {
+    "Rank": 31,
+    "TeamId": 3780986,
+    "Team": {
+      "ID": 3780986,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "KeenLynx",
+          "DisplayName": "KeenLynx"
+        }
+      ]
+    },
+    "Points": 24,
+    "MatchRecord": "8-4-0",
+    "GameRecord": "17-11-0",
+    "OpponentMatchWinPercentage": 0.64467593,
+    "TeamGameWinPercentage": 0.60714286,
+    "OpponentGameWinPercentage": 0.5820593,
+    "FinalTiebreaker": 3780986.0,
+    "OpponentCount": 12
+  },
+  {
+    "Rank": 76,
+    "TeamId": 3780989,
+    "Team": {
+      "ID": 3780989,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "EagerGecko",
+          "DisplayName": "EagerGecko"
+        }
+      ]
+    },
+    "Points": 15,
+    "MatchRecord": "5-3-0",
+    "GameRecord": "13-7-0",
+    "OpponentMatchWinPercentage": 0.63541667,
+    "TeamGameWinPercentage": 0.65,
+    "OpponentGameWinPercentage": 0.58896199,
+    "FinalTiebreaker": 3780989.0,
+    "OpponentCount": 8
+  },
+  {
+    "Rank": 8,
+    "TeamId": 3781008,
+    "Team": {
+      "ID": 3781008,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "QuickCricket",
+          "DisplayName": "QuickCricket"
+        }
+      ]
+    },
+    "Points": 30,
+    "MatchRecord": "10-2-0",
+    "GameRecord": "20-5-0",
+    "OpponentMatchWinPercentage": 0.62037037,
+    "TeamGameWinPercentage": 0.8,
+    "OpponentGameWinPercentage": 0.58368258,
+    "FinalTiebreaker": 3781008.0,
+    "OpponentCount": 12
+  },
+  {
+    "Rank": 160,
+    "TeamId": 3781025,
+    "Team": {
+      "ID": 3781025,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "HollowViper",
+          "DisplayName": "HollowViper"
+        }
+      ]
+    },
+    "Points": 13,
+    "MatchRecord": "4-3-1",
+    "GameRecord": "8-6-3",
+    "OpponentMatchWinPercentage": 0.53125,
+    "TeamGameWinPercentage": 0.52941176,
+    "OpponentGameWinPercentage": 0.51313179,
+    "FinalTiebreaker": 3781025.0,
+    "OpponentCount": 8
+  },
+  {
+    "Rank": 44,
+    "TeamId": 3781046,
+    "Team": {
+      "ID": 3781046,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "MistyComet",
+          "DisplayName": "Yael Millbrook"
+        }
+      ]
+    },
+    "Points": 24,
+    "MatchRecord": "8-4-0",
+    "GameRecord": "19-11-0",
+    "OpponentMatchWinPercentage": 0.56729497,
+    "TeamGameWinPercentage": 0.63333333,
+    "OpponentGameWinPercentage": 0.55678579,
+    "FinalTiebreaker": 3781046.0,
+    "OpponentCount": 12
+  },
+  {
+    "Rank": 142,
+    "TeamId": 3781049,
+    "Team": {
+      "ID": 3781049,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "FabledMeadow",
+          "DisplayName": "FabledMeadow"
+        }
+      ]
+    },
+    "Points": 13,
+    "MatchRecord": "4-3-1",
+    "GameRecord": "10-7-3",
+    "OpponentMatchWinPercentage": 0.59375,
+    "TeamGameWinPercentage": 0.55,
+    "OpponentGameWinPercentage": 0.5386393,
+    "FinalTiebreaker": 3781049.0,
+    "OpponentCount": 8
+  },
+  {
+    "Rank": 448,
+    "TeamId": 3781067,
+    "Team": {
+      "ID": 3781067,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "HazelPebble",
+          "DisplayName": "Oakley Ashdown"
+        }
+      ]
+    },
+    "Points": 0,
+    "MatchRecord": "0-4-0",
+    "GameRecord": "1-8-0",
+    "OpponentMatchWinPercentage": 0.55208333,
+    "TeamGameWinPercentage": 0.33333333,
+    "OpponentGameWinPercentage": 0.5645749,
+    "FinalTiebreaker": 3781067.0,
+    "OpponentCount": 4
+  },
+  {
+    "Rank": 39,
+    "TeamId": 3781119,
+    "Team": {
+      "ID": 3781119,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "FabledMarten",
+          "DisplayName": "FabledMarten"
+        }
+      ]
+    },
+    "Points": 24,
+    "MatchRecord": "8-4-0",
+    "GameRecord": "16-14-0",
+    "OpponentMatchWinPercentage": 0.59027778,
+    "TeamGameWinPercentage": 0.53333333,
+    "OpponentGameWinPercentage": 0.55547565,
+    "FinalTiebreaker": 3781119.0,
+    "OpponentCount": 12
+  },
+  {
+    "Rank": 364,
+    "TeamId": 3781122,
+    "Team": {
+      "ID": 3781122,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "IndigoNewt",
+          "DisplayName": "IndigoNewt"
+        }
+      ]
+    },
+    "Points": 6,
+    "MatchRecord": "2-6-0",
+    "GameRecord": "5-13-0",
+    "OpponentMatchWinPercentage": 0.49404762,
+    "TeamGameWinPercentage": 0.33333333,
+    "OpponentGameWinPercentage": 0.47380952,
+    "FinalTiebreaker": 3781122.0,
+    "OpponentCount": 7
+  },
+  {
+    "Rank": 65,
+    "TeamId": 3781132,
+    "Team": {
+      "ID": 3781132,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "BrightJackal",
+          "DisplayName": "BrightJackal"
+        }
+      ]
+    },
+    "Points": 16,
+    "MatchRecord": "5-2-1",
+    "GameRecord": "13-8-0",
+    "OpponentMatchWinPercentage": 0.6875,
+    "TeamGameWinPercentage": 0.61904762,
+    "OpponentGameWinPercentage": 0.65405702,
+    "FinalTiebreaker": 3781132.0,
+    "OpponentCount": 8
+  },
+  {
+    "Rank": 42,
+    "TeamId": 3781135,
+    "Team": {
+      "ID": 3781135,
+      "Name": null,
+      "Players": [
+        {
+          "Username": "SableRaven",
+          "DisplayName": "SableRaven"
+        }
+      ]
+    },
+    "Points": 24,
+    "MatchRecord": "8-4-0",
+    "GameRecord": "17-10-0",
+    "OpponentMatchWinPercentage": 0.5719697,
+    "TeamGameWinPercentage": 0.62962963,
+    "OpponentGameWinPercentage": 0.57105643,
+    "FinalTiebreaker": 3781135.0,
+    "OpponentCount": 11
+  }
+]

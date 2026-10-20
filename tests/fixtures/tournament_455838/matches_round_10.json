@@ -1,0 +1,1282 @@
+[
+  {
+    "RoundId": 1617362,
+    "TableNumber": 1,
+    "GameDraws": 0,
+    "HasResult": true,
+    "ResultString": "StormyPuffin won 2-0-0",
+    "ByeReason": null,
+    "Competitors": [
+      {
+        "TeamId": 4291979,
+        "Team": {
+          "ID": 4291979,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "StormyPuffin",
+              "DisplayName": "StormyPuffin"
+            }
+          ]
+        },
+        "GameWins": 2,
+        "GameByes": 0
+      },
+      {
+        "TeamId": 4292130,
+        "Team": {
+          "ID": 4292130,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "KeenIbex74",
+              "DisplayName": "Morgan Thornbury"
+            }
+          ]
+        },
+        "GameWins": 0,
+        "GameByes": 0
+      }
+    ]
+  },
+  {
+    "RoundId": 1617362,
+    "TableNumber": 2,
+    "GameDraws": 0,
+    "HasResult": true,
+    "ResultString": "BrassComet won 2-0-0",
+    "ByeReason": null,
+    "Competitors": [
+      {
+        "TeamId": 4291748,
+        "Team": {
+          "ID": 4291748,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "NimbleMarten",
+              "DisplayName": "NimbleMarten"
+            }
+          ]
+        },
+        "GameWins": 0,
+        "GameByes": 0
+      },
+      {
+        "TeamId": 4292180,
+        "Team": {
+          "ID": 4292180,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "BrassComet",
+              "DisplayName": "BrassComet"
+            }
+          ]
+        },
+        "GameWins": 2,
+        "GameByes": 0
+      }
+    ]
+  },
+  {
+    "RoundId": 1617362,
+    "TableNumber": 3,
+    "GameDraws": 0,
+    "HasResult": true,
+    "ResultString": "AmberFinch won 2-0-0",
+    "ByeReason": null,
+    "Competitors": [
+      {
+        "TeamId": 4292191,
+        "Team": {
+          "ID": 4292191,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "AmberFinch",
+              "DisplayName": "AmberFinch"
+            }
+          ]
+        },
+        "GameWins": 2,
+        "GameByes": 0
+      },
+      {
+        "TeamId": 4292060,
+        "Team": {
+          "ID": 4292060,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "JadeMarten",
+              "DisplayName": "JadeMarten"
+            }
+          ]
+        },
+        "GameWins": 0,
+        "GameByes": 0
+      }
+    ]
+  },
+  {
+    "RoundId": 1617362,
+    "TableNumber": 4,
+    "GameDraws": 0,
+    "HasResult": true,
+    "ResultString": "CleverFinch won 2-0-0",
+    "ByeReason": null,
+    "Competitors": [
+      {
+        "TeamId": 4292034,
+        "Team": {
+          "ID": 4292034,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "CleverFinch",
+              "DisplayName": "CleverFinch"
+            }
+          ]
+        },
+        "GameWins": 2,
+        "GameByes": 0
+      },
+      {
+        "TeamId": 4291809,
+        "Team": {
+          "ID": 4291809,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "DapperToad",
+              "DisplayName": "Eli Elmsworth"
+            }
+          ]
+        },
+        "GameWins": 0,
+        "GameByes": 0
+      }
+    ]
+  },
+  {
+    "RoundId": 1617362,
+    "TableNumber": 5,
+    "GameDraws": 0,
+    "HasResult": true,
+    "ResultString": "Quinn Kettleby won 2-0-0",
+    "ByeReason": null,
+    "Competitors": [
+      {
+        "TeamId": 4291965,
+        "Team": {
+          "ID": 4291965,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "EmberWren",
+              "DisplayName": "Quinn Kettleby"
+            }
+          ]
+        },
+        "GameWins": 2,
+        "GameByes": 0
+      },
+      {
+        "TeamId": 4291843,
+        "Team": {
+          "ID": 4291843,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "NimbleViper",
+              "DisplayName": "NimbleViper"
+            }
+          ]
+        },
+        "GameWins": 0,
+        "GameByes": 0
+      }
+    ]
+  },
+  {
+    "RoundId": 1617362,
+    "TableNumber": 6,
+    "GameDraws": 1,
+    "HasResult": true,
+    "ResultString": "1-1-1 Draw",
+    "ByeReason": null,
+    "Competitors": [
+      {
+        "TeamId": 4291922,
+        "Team": {
+          "ID": 4291922,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "MellowWillow",
+              "DisplayName": "MellowWillow"
+            }
+          ]
+        },
+        "GameWins": 1,
+        "GameByes": 0
+      },
+      {
+        "TeamId": 4292046,
+        "Team": {
+          "ID": 4292046,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "WryThrush63",
+              "DisplayName": "WryThrush63"
+            }
+          ]
+        },
+        "GameWins": 1,
+        "GameByes": 0
+      }
+    ]
+  },
+  {
+    "RoundId": 1617362,
+    "TableNumber": 7,
+    "GameDraws": 0,
+    "HasResult": true,
+    "ResultString": "GildedFinch11 won 2-1-0",
+    "ByeReason": null,
+    "Competitors": [
+      {
+        "TeamId": 4292011,
+        "Team": {
+          "ID": 4292011,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "CobaltReef",
+              "DisplayName": "CobaltReef"
+            }
+          ]
+        },
+        "GameWins": 1,
+        "GameByes": 0
+      },
+      {
+        "TeamId": 4291739,
+        "Team": {
+          "ID": 4291739,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "GildedFinch11",
+              "DisplayName": "GildedFinch11"
+            }
+          ]
+        },
+        "GameWins": 2,
+        "GameByes": 0
+      }
+    ]
+  },
+  {
+    "RoundId": 1617362,
+    "TableNumber": 8,
+    "GameDraws": 0,
+    "HasResult": true,
+    "ResultString": "Casey Redfern won 2-0-0",
+    "ByeReason": null,
+    "Competitors": [
+      {
+        "TeamId": 4292188,
+        "Team": {
+          "ID": 4292188,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "EagerWeasel81",
+              "DisplayName": "EagerWeasel81"
+            }
+          ]
+        },
+        "GameWins": 0,
+        "GameByes": 0
+      },
+      {
+        "TeamId": 4292064,
+        "Team": {
+          "ID": 4292064,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "CleverFalcon",
+              "DisplayName": "Casey Redfern"
+            }
+          ]
+        },
+        "GameWins": 2,
+        "GameByes": 0
+      }
+    ]
+  },
+  {
+    "RoundId": 1617362,
+    "TableNumber": 9,
+    "GameDraws": 0,
+    "HasResult": true,
+    "ResultString": "LunarDrake won 2-1-0",
+    "ByeReason": null,
+    "Competitors": [
+      {
+        "TeamId": 4292080,
+        "Team": {
+          "ID": 4292080,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "SleepyWillow85",
+              "DisplayName": "SleepyWillow85"
+            }
+          ]
+        },
+        "GameWins": 1,
+        "GameByes": 0
+      },
+      {
+        "TeamId": 4291770,
+        "Team": {
+          "ID": 4291770,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "LunarDrake",
+              "DisplayName": "LunarDrake"
+            }
+          ]
+        },
+        "GameWins": 2,
+        "GameByes": 0
+      }
+    ]
+  },
+  {
+    "RoundId": 1617362,
+    "TableNumber": 10,
+    "GameDraws": 0,
+    "HasResult": true,
+    "ResultString": "DustyOcelot won 2-1-0",
+    "ByeReason": null,
+    "Competitors": [
+      {
+        "TeamId": 4291923,
+        "Team": {
+          "ID": 4291923,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "QuickFerret",
+              "DisplayName": "QuickFerret"
+            }
+          ]
+        },
+        "GameWins": 1,
+        "GameByes": 0
+      },
+      {
+        "TeamId": 4292043,
+        "Team": {
+          "ID": 4292043,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "DustyOcelot",
+              "DisplayName": "DustyOcelot"
+            }
+          ]
+        },
+        "GameWins": 2,
+        "GameByes": 0
+      }
+    ]
+  },
+  {
+    "RoundId": 1617362,
+    "TableNumber": 11,
+    "GameDraws": null,
+    "HasResult": true,
+    "ResultString": "JadeHeron won 2-1-0",
+    "ByeReason": null,
+    "Competitors": [
+      {
+        "TeamId": 4291984,
+        "Team": {
+          "ID": 4291984,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "TidalViper",
+              "DisplayName": "Oakley Ironwood"
+            }
+          ]
+        },
+        "GameWins": 1,
+        "GameByes": 0
+      },
+      {
+        "TeamId": 4292087,
+        "Team": {
+          "ID": 4292087,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "JadeHeron",
+              "DisplayName": "JadeHeron"
+            }
+          ]
+        },
+        "GameWins": 2,
+        "GameByes": 0
+      }
+    ]
+  },
+  {
+    "RoundId": 1617362,
+    "TableNumber": 12,
+    "GameDraws": 0,
+    "HasResult": true,
+    "ResultString": "CinderLantern won 2-0-0",
+    "ByeReason": null,
+    "Competitors": [
+      {
+        "TeamId": 4292171,
+        "Team": {
+          "ID": 4292171,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "DapperWren",
+              "DisplayName": "DapperWren"
+            }
+          ]
+        },
+        "GameWins": 0,
+        "GameByes": 0
+      },
+      {
+        "TeamId": 4292126,
+        "Team": {
+          "ID": 4292126,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "CinderLantern",
+              "DisplayName": "CinderLantern"
+            }
+          ]
+        },
+        "GameWins": 2,
+        "GameByes": 0
+      }
+    ]
+  },
+  {
+    "RoundId": 1617362,
+    "TableNumber": 13,
+    "GameDraws": 0,
+    "HasResult": true,
+    "ResultString": "BrightHeron won 2-0-0",
+    "ByeReason": null,
+    "Competitors": [
+      {
+        "TeamId": 4291741,
+        "Team": {
+          "ID": 4291741,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "HollowOcelot",
+              "DisplayName": "HollowOcelot"
+            }
+          ]
+        },
+        "GameWins": 0,
+        "GameByes": 0
+      },
+      {
+        "TeamId": 4291718,
+        "Team": {
+          "ID": 4291718,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "BrightHeron",
+              "DisplayName": "BrightHeron"
+            }
+          ]
+        },
+        "GameWins": 2,
+        "GameByes": 0
+      }
+    ]
+  },
+  {
+    "RoundId": 1617362,
+    "TableNumber": 14,
+    "GameDraws": 0,
+    "HasResult": true,
+    "ResultString": "CalmBadger won 2-1-0",
+    "ByeReason": null,
+    "Competitors": [
+      {
+        "TeamId": 4291993,
+        "Team": {
+          "ID": 4291993,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "CalmBadger",
+              "DisplayName": "CalmBadger"
+            }
+          ]
+        },
+        "GameWins": 2,
+        "GameByes": 0
+      },
+      {
+        "TeamId": 4291712,
+        "Team": {
+          "ID": 4291712,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "MellowBadger",
+              "DisplayName": "MellowBadger"
+            }
+          ]
+        },
+        "GameWins": 1,
+        "GameByes": 0
+      }
+    ]
+  },
+  {
+    "RoundId": 1617362,
+    "TableNumber": 15,
+    "GameDraws": 0,
+    "HasResult": true,
+    "ResultString": "JadeComet won 2-0-0",
+    "ByeReason": null,
+    "Competitors": [
+      {
+        "TeamId": 4291959,
+        "Team": {
+          "ID": 4291959,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "JadeComet",
+              "DisplayName": "JadeComet"
+            }
+          ]
+        },
+        "GameWins": 2,
+        "GameByes": 0
+      },
+      {
+        "TeamId": 4291926,
+        "Team": {
+          "ID": 4291926,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "CalmQuail",
+              "DisplayName": "CalmQuail"
+            }
+          ]
+        },
+        "GameWins": 0,
+        "GameByes": 0
+      }
+    ]
+  },
+  {
+    "RoundId": 1617362,
+    "TableNumber": 16,
+    "GameDraws": 0,
+    "HasResult": true,
+    "ResultString": "LuckyThrush won 2-0-0",
+    "ByeReason": null,
+    "Competitors": [
+      {
+        "TeamId": 4291856,
+        "Team": {
+          "ID": 4291856,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "LuckyThrush",
+              "DisplayName": "LuckyThrush"
+            }
+          ]
+        },
+        "GameWins": 2,
+        "GameByes": 0
+      },
+      {
+        "TeamId": 4291912,
+        "Team": {
+          "ID": 4291912,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "AzureSummit",
+              "DisplayName": "AzureSummit"
+            }
+          ]
+        },
+        "GameWins": 0,
+        "GameByes": 0
+      }
+    ]
+  },
+  {
+    "RoundId": 1617362,
+    "TableNumber": 17,
+    "GameDraws": 0,
+    "HasResult": true,
+    "ResultString": "EagerThistle42 won 2-0-0",
+    "ByeReason": null,
+    "Competitors": [
+      {
+        "TeamId": 4292174,
+        "Team": {
+          "ID": 4292174,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "WryBeacon",
+              "DisplayName": "WryBeacon"
+            }
+          ]
+        },
+        "GameWins": 0,
+        "GameByes": 0
+      },
+      {
+        "TeamId": 4291877,
+        "Team": {
+          "ID": 4291877,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "EagerThistle42",
+              "DisplayName": "EagerThistle42"
+            }
+          ]
+        },
+        "GameWins": 2,
+        "GameByes": 0
+      }
+    ]
+  },
+  {
+    "RoundId": 1617362,
+    "TableNumber": 18,
+    "GameDraws": 0,
+    "HasResult": true,
+    "ResultString": "CleverYak won 2-1-0",
+    "ByeReason": null,
+    "Competitors": [
+      {
+        "TeamId": 4292140,
+        "Team": {
+          "ID": 4292140,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "CrimsonHeron",
+              "DisplayName": "CrimsonHeron"
+            }
+          ]
+        },
+        "GameWins": 1,
+        "GameByes": 0
+      },
+      {
+        "TeamId": 4291716,
+        "Team": {
+          "ID": 4291716,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "CleverYak",
+              "DisplayName": "CleverYak"
+            }
+          ]
+        },
+        "GameWins": 2,
+        "GameByes": 0
+      }
+    ]
+  },
+  {
+    "RoundId": 1617362,
+    "TableNumber": 19,
+    "GameDraws": 0,
+    "HasResult": true,
+    "ResultString": "CedarMagpie won 2-0-0",
+    "ByeReason": null,
+    "Competitors": [
+      {
+        "TeamId": 4292032,
+        "Team": {
+          "ID": 4292032,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "NobleFalcon",
+              "DisplayName": "NobleFalcon"
+            }
+          ]
+        },
+        "GameWins": 0,
+        "GameByes": 0
+      },
+      {
+        "TeamId": 4292148,
+        "Team": {
+          "ID": 4292148,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "CedarMagpie",
+              "DisplayName": "CedarMagpie"
+            }
+          ]
+        },
+        "GameWins": 2,
+        "GameByes": 0
+      }
+    ]
+  },
+  {
+    "RoundId": 1617362,
+    "TableNumber": 20,
+    "GameDraws": 0,
+    "HasResult": true,
+    "ResultString": "LuckyYak won 1-0-0",
+    "ByeReason": null,
+    "Competitors": [
+      {
+        "TeamId": 4291937,
+        "Team": {
+          "ID": 4291937,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "SilentWalrus",
+              "DisplayName": "SilentWalrus"
+            }
+          ]
+        },
+        "GameWins": null,
+        "GameByes": null
+      },
+      {
+        "TeamId": 4292072,
+        "Team": {
+          "ID": 4292072,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "LuckyYak",
+              "DisplayName": "LuckyYak"
+            }
+          ]
+        },
+        "GameWins": 1,
+        "GameByes": 0
+      }
+    ]
+  },
+  {
+    "RoundId": 1617362,
+    "TableNumber": 21,
+    "GameDraws": 0,
+    "HasResult": true,
+    "ResultString": "FrostySparrow won 2-0-0",
+    "ByeReason": null,
+    "Competitors": [
+      {
+        "TeamId": 4291848,
+        "Team": {
+          "ID": 4291848,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "GildedSummit",
+              "DisplayName": "GildedSummit"
+            }
+          ]
+        },
+        "GameWins": 0,
+        "GameByes": 0
+      },
+      {
+        "TeamId": 4292135,
+        "Team": {
+          "ID": 4292135,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "FrostySparrow",
+              "DisplayName": "FrostySparrow"
+            }
+          ]
+        },
+        "GameWins": 2,
+        "GameByes": 0
+      }
+    ]
+  },
+  {
+    "RoundId": 1617362,
+    "TableNumber": 22,
+    "GameDraws": 0,
+    "HasResult": true,
+    "ResultString": "CinderJackal won 2-1-0",
+    "ByeReason": null,
+    "Competitors": [
+      {
+        "TeamId": 4292068,
+        "Team": {
+          "ID": 4292068,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "CinderJackal",
+              "DisplayName": "CinderJackal"
+            }
+          ]
+        },
+        "GameWins": 2,
+        "GameByes": 0
+      },
+      {
+        "TeamId": 4292184,
+        "Team": {
+          "ID": 4292184,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "AmberGlacier",
+              "DisplayName": "AmberGlacier"
+            }
+          ]
+        },
+        "GameWins": 1,
+        "GameByes": 0
+      }
+    ]
+  },
+  {
+    "RoundId": 1617362,
+    "TableNumber": 23,
+    "GameDraws": 0,
+    "HasResult": true,
+    "ResultString": "SwiftNewt64 won 2-1-0",
+    "ByeReason": null,
+    "Competitors": [
+      {
+        "TeamId": 4291873,
+        "Team": {
+          "ID": 4291873,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "SilverWillow",
+              "DisplayName": "SilverWillow"
+            }
+          ]
+        },
+        "GameWins": 1,
+        "GameByes": 0
+      },
+      {
+        "TeamId": 4292208,
+        "Team": {
+          "ID": 4292208,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "SwiftNewt64",
+              "DisplayName": "SwiftNewt64"
+            }
+          ]
+        },
+        "GameWins": 2,
+        "GameByes": 0
+      }
+    ]
+  },
+  {
+    "RoundId": 1617362,
+    "TableNumber": 24,
+    "GameDraws": 0,
+    "HasResult": true,
+    "ResultString": "AmberGlacier22 won 2-1-0",
+    "ByeReason": null,
+    "Competitors": [
+      {
+        "TeamId": 4291895,
+        "Team": {
+          "ID": 4291895,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "AmberGlacier22",
+              "DisplayName": "AmberGlacier22"
+            }
+          ]
+        },
+        "GameWins": 2,
+        "GameByes": 0
+      },
+      {
+        "TeamId": 4292025,
+        "Team": {
+          "ID": 4292025,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "JollyRaven60",
+              "DisplayName": "JollyRaven60"
+            }
+          ]
+        },
+        "GameWins": 1,
+        "GameByes": 0
+      }
+    ]
+  },
+  {
+    "RoundId": 1617362,
+    "TableNumber": 25,
+    "GameDraws": 0,
+    "HasResult": true,
+    "ResultString": "IronLantern won 2-1-0",
+    "ByeReason": null,
+    "Competitors": [
+      {
+        "TeamId": 4291835,
+        "Team": {
+          "ID": 4291835,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "IronLantern",
+              "DisplayName": "IronLantern"
+            }
+          ]
+        },
+        "GameWins": 2,
+        "GameByes": null
+      },
+      {
+        "TeamId": 4291865,
+        "Team": {
+          "ID": 4291865,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "CedarViper33",
+              "DisplayName": "CedarViper33"
+            }
+          ]
+        },
+        "GameWins": 1,
+        "GameByes": null
+      }
+    ]
+  },
+  {
+    "RoundId": 1617362,
+    "TableNumber": 26,
+    "GameDraws": 0,
+    "HasResult": true,
+    "ResultString": "IronCondor won 2-1-0",
+    "ByeReason": null,
+    "Competitors": [
+      {
+        "TeamId": 4291832,
+        "Team": {
+          "ID": 4291832,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "BrassRaven",
+              "DisplayName": "BrassRaven"
+            }
+          ]
+        },
+        "GameWins": 1,
+        "GameByes": 0
+      },
+      {
+        "TeamId": 4292170,
+        "Team": {
+          "ID": 4292170,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "IronCondor",
+              "DisplayName": "IronCondor"
+            }
+          ]
+        },
+        "GameWins": 2,
+        "GameByes": 0
+      }
+    ]
+  },
+  {
+    "RoundId": 1617362,
+    "TableNumber": 27,
+    "GameDraws": 0,
+    "HasResult": true,
+    "ResultString": "HollowWombat won 2-0-0",
+    "ByeReason": null,
+    "Competitors": [
+      {
+        "TeamId": 4291853,
+        "Team": {
+          "ID": 4291853,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "PluckyLynx",
+              "DisplayName": "PluckyLynx"
+            }
+          ]
+        },
+        "GameWins": 0,
+        "GameByes": 0
+      },
+      {
+        "TeamId": 4291945,
+        "Team": {
+          "ID": 4291945,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "HollowWombat",
+              "DisplayName": "HollowWombat"
+            }
+          ]
+        },
+        "GameWins": 2,
+        "GameByes": 0
+      }
+    ]
+  },
+  {
+    "RoundId": 1617362,
+    "TableNumber": 28,
+    "GameDraws": 0,
+    "HasResult": true,
+    "ResultString": "StormyHarbor won 2-1-0",
+    "ByeReason": null,
+    "Competitors": [
+      {
+        "TeamId": 4291825,
+        "Team": {
+          "ID": 4291825,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "StormyHarbor",
+              "DisplayName": "StormyHarbor"
+            }
+          ]
+        },
+        "GameWins": 2,
+        "GameByes": 0
+      },
+      {
+        "TeamId": 4291898,
+        "Team": {
+          "ID": 4291898,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "BrightSalmon23",
+              "DisplayName": "BrightSalmon23"
+            }
+          ]
+        },
+        "GameWins": 1,
+        "GameByes": 0
+      }
+    ]
+  },
+  {
+    "RoundId": 1617362,
+    "TableNumber": 29,
+    "GameDraws": 0,
+    "HasResult": true,
+    "ResultString": "QuietBeacon67 won 2-1-0",
+    "ByeReason": null,
+    "Competitors": [
+      {
+        "TeamId": 4291752,
+        "Team": {
+          "ID": 4291752,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "BrassTiger",
+              "DisplayName": "BrassTiger"
+            }
+          ]
+        },
+        "GameWins": 1,
+        "GameByes": 0
+      },
+      {
+        "TeamId": 4292079,
+        "Team": {
+          "ID": 4292079,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "QuietBeacon67",
+              "DisplayName": "QuietBeacon67"
+            }
+          ]
+        },
+        "GameWins": 2,
+        "GameByes": 0
+      }
+    ]
+  },
+  {
+    "RoundId": 1617362,
+    "TableNumber": 30,
+    "GameDraws": 0,
+    "HasResult": true,
+    "ResultString": "ShadyYak won 2-0-0",
+    "ByeReason": null,
+    "Competitors": [
+      {
+        "TeamId": 4292136,
+        "Team": {
+          "ID": 4292136,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "TidalHarbor21",
+              "DisplayName": "Reese Yarrowby"
+            }
+          ]
+        },
+        "GameWins": 0,
+        "GameByes": 0
+      },
+      {
+        "TeamId": 4292006,
+        "Team": {
+          "ID": 4292006,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "ShadyYak",
+              "DisplayName": "ShadyYak"
+            }
+          ]
+        },
+        "GameWins": 2,
+        "GameByes": 0
+      }
+    ]
+  },
+  {
+    "RoundId": 1617362,
+    "TableNumber": 31,
+    "GameDraws": 0,
+    "HasResult": true,
+    "ResultString": "GentleBadger won 1-0-0",
+    "ByeReason": null,
+    "Competitors": [
+      {
+        "TeamId": 4291966,
+        "Team": {
+          "ID": 4291966,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "GentleBadger",
+              "DisplayName": "GentleBadger"
+            }
+          ]
+        },
+        "GameWins": 1,
+        "GameByes": 0
+      },
+      {
+        "TeamId": 4291950,
+        "Team": {
+          "ID": 4291950,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "EmberIbex",
+              "DisplayName": "EmberIbex"
+            }
+          ]
+        },
+        "GameWins": 0,
+        "GameByes": 0
+      }
+    ]
+  },
+  {
+    "RoundId": 1617362,
+    "TableNumber": 32,
+    "GameDraws": 0,
+    "HasResult": true,
+    "ResultString": "VelvetBirch won 2-0-0",
+    "ByeReason": null,
+    "Competitors": [
+      {
+        "TeamId": 4291900,
+        "Team": {
+          "ID": 4291900,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "SablePanda",
+              "DisplayName": "SablePanda"
+            }
+          ]
+        },
+        "GameWins": 0,
+        "GameByes": 0
+      },
+      {
+        "TeamId": 4291990,
+        "Team": {
+          "ID": 4291990,
+          "Name": null,
+          "Players": [
+            {
+              "Username": "VelvetBirch",
+              "DisplayName": "VelvetBirch"
+            }
+          ]
+        },
+        "GameWins": 2,
+        "GameByes": 0
+      }
+    ]
+  }
+]

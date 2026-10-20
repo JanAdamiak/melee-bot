@@ -1,0 +1,323 @@
+{
+  "draw": 1,
+  "recordsTotal": 1485,
+  "recordsFiltered": 1485,
+  "data": [
+    {
+      "Team": {
+        "Players": [
+          {
+            "TeamId": 4042125,
+            "ID": 4027461,
+            "ScreenName": "N/A",
+            "ProfileImageVersion": 0,
+            "DisplayName": "IvoryTiger71",
+            "DisplayNameLastFirst": "IvoryTiger71",
+            "Username": "IvoryTiger71",
+            "LanguageDescription": "Auto (English)",
+            "PronounsDescription": "He/Him"
+          }
+        ],
+        "ID": 4042125,
+        "Name": null,
+        "StatusDescription": "Qualified",
+        "IsActive": true
+      },
+      "DateCreated": "2026-07-25T02:06:22Z",
+      "MatchingMethod": 7,
+      "StandingsPublished": true,
+      "FinalTiebreaker": 4042125.0,
+      "OpponentGameWinPercentage": 0.7048077,
+      "OpponentMatchWinPercentage": 0.755102,
+      "TeamGameWinPercentage": 0.7368421,
+      "GameCount": 19,
+      "GameDraws": 0,
+      "GameLosses": 5,
+      "GameWins": 14,
+      "MatchCount": 7,
+      "MatchDraws": 0,
+      "MatchLosses": 0,
+      "MatchWins": 7,
+      "OpponentCount": 0,
+      "PhaseSortOrder": 1,
+      "Points": 21,
+      "Rank": 1,
+      "RoundNumber": 7,
+      "ID": 76191409,
+      "PhaseId": 404738,
+      "RoundId": 1419156,
+      "TeamId": 4042125,
+      "TournamentId": 403891,
+      "FormatId": "d312b6cd-1f2d-4d49-887c-8596673c43dd",
+      "FormatName": "Premier",
+      "PhaseName": null,
+      "MatchingMethodDescription": "Play Until X Wins",
+      "Round": "Round 7",
+      "Decklists": [
+        {
+          "DecklistId": "eafe2073-b861-4325-87fd-b49001778ba9",
+          "PlayerId": 4027461,
+          "DecklistName": "Cad Bane, Still Faster than You - Nevarro City, Restored",
+          "Format": "Premier",
+          "FormatId": "d312b6cd-1f2d-4d49-887c-8596673c43dd"
+        }
+      ],
+      "GameRecord": "14-5-0",
+      "MatchRecord": "7-0-0",
+      "FormatDescription": "Premier"
+    },
+    {
+      "Team": {
+        "Players": [
+          {
+            "TeamId": 4224798,
+            "ID": 4210134,
+            "ScreenName": "N/A",
+            "ProfileImageVersion": 0,
+            "DisplayName": "PaleYak",
+            "DisplayNameLastFirst": "PaleYak",
+            "Username": "PaleYak",
+            "LanguageDescription": "Auto (English)",
+            "PronounsDescription": "He/Him"
+          }
+        ],
+        "ID": 4224798,
+        "Name": null,
+        "StatusDescription": "Qualified",
+        "IsActive": true
+      },
+      "DateCreated": "2026-07-25T02:06:22Z",
+      "MatchingMethod": 7,
+      "StandingsPublished": true,
+      "FinalTiebreaker": 4224798.0,
+      "OpponentGameWinPercentage": 0.6642857,
+      "OpponentMatchWinPercentage": 0.7142857,
+      "TeamGameWinPercentage": 0.875,
+      "GameCount": 16,
+      "GameDraws": 0,
+      "GameLosses": 2,
+      "GameWins": 14,
+      "MatchCount": 7,
+      "MatchDraws": 0,
+      "MatchLosses": 0,
+      "MatchWins": 7,
+      "OpponentCount": 0,
+      "PhaseSortOrder": 1,
+      "Points": 21,
+      "Rank": 2,
+      "RoundNumber": 7,
+      "ID": 76191410,
+      "PhaseId": 404738,
+      "RoundId": 1419156,
+      "TeamId": 4224798,
+      "TournamentId": 403891,
+      "FormatId": "d312b6cd-1f2d-4d49-887c-8596673c43dd",
+      "FormatName": "Premier",
+      "PhaseName": null,
+      "MatchingMethodDescription": "Play Until X Wins",
+      "Round": "Round 7",
+      "Decklists": [
+        {
+          "DecklistId": "364f3baa-5e31-4bd6-89a2-b48f0141c42e",
+          "PlayerId": 4210134,
+          "DecklistName": "Director Krennic, Amidst My Achievement - Fortress of the Great Mothers",
+          "Format": "Premier",
+          "FormatId": "d312b6cd-1f2d-4d49-887c-8596673c43dd"
+        }
+      ],
+      "GameRecord": "14-2-0",
+      "MatchRecord": "7-0-0",
+      "FormatDescription": "Premier"
+    },
+    {
+      "Team": {
+        "Players": [
+          {
+            "TeamId": 4105392,
+            "ID": 4090728,
+            "ScreenName": "N/A",
+            "ProfileImageVersion": 0,
+            "DisplayName": "ArcticGlacier",
+            "DisplayNameLastFirst": "ArcticGlacier",
+            "Username": "ArcticGlacier",
+            "LanguageDescription": "English (English)",
+            "PronounsDescription": null
+          }
+        ],
+        "ID": 4105392,
+        "Name": null,
+        "StatusDescription": "Qualified",
+        "IsActive": true
+      },
+      "DateCreated": "2026-07-25T02:06:22Z",
+      "MatchingMethod": 7,
+      "StandingsPublished": true,
+      "FinalTiebreaker": 4105392.0,
+      "OpponentGameWinPercentage": 0.6443713,
+      "OpponentMatchWinPercentage": 0.6979592,
+      "TeamGameWinPercentage": 0.8235294,
+      "GameCount": 17,
+      "GameDraws": 0,
+      "GameLosses": 3,
+      "GameWins": 14,
+      "MatchCount": 7,
+      "MatchDraws": 0,
+      "MatchLosses": 0,
+      "MatchWins": 7,
+      "OpponentCount": 0,
+      "PhaseSortOrder": 1,
+      "Points": 21,
+      "Rank": 3,
+      "RoundNumber": 7,
+      "ID": 76191411,
+      "PhaseId": 404738,
+      "RoundId": 1419156,
+      "TeamId": 4105392,
+      "TournamentId": 403891,
+      "FormatId": "d312b6cd-1f2d-4d49-887c-8596673c43dd",
+      "FormatName": "Premier",
+      "PhaseName": null,
+      "MatchingMethodDescription": "Play Until X Wins",
+      "Round": "Round 7",
+      "Decklists": [
+        {
+          "DecklistId": "4193d510-41c6-4a0e-ad99-b49100227cd4",
+          "PlayerId": 4090728,
+          "DecklistName": "Cad Bane, Still Faster than You - Fortress of the Great Mothers",
+          "Format": "Premier",
+          "FormatId": "d312b6cd-1f2d-4d49-887c-8596673c43dd"
+        }
+      ],
+      "GameRecord": "14-3-0",
+      "MatchRecord": "7-0-0",
+      "FormatDescription": "Premier"
+    },
+    {
+      "Team": {
+        "Players": [
+          {
+            "TeamId": 4191750,
+            "ID": 4177086,
+            "ScreenName": "N/A",
+            "ProfileImageVersion": 0,
+            "DisplayName": "Morgan Thornbury",
+            "DisplayNameLastFirst": "Thornbury, Morgan",
+            "Username": "KeenIbex74",
+            "LanguageDescription": "Auto (English)",
+            "PronounsDescription": "He/Him"
+          }
+        ],
+        "ID": 4191750,
+        "Name": null,
+        "StatusDescription": "Qualified",
+        "IsActive": true
+      },
+      "DateCreated": "2026-07-25T02:06:22Z",
+      "MatchingMethod": 7,
+      "StandingsPublished": true,
+      "FinalTiebreaker": 4191750.0,
+      "OpponentGameWinPercentage": 0.6094771,
+      "OpponentMatchWinPercentage": 0.6802721,
+      "TeamGameWinPercentage": 0.7777778,
+      "GameCount": 18,
+      "GameDraws": 0,
+      "GameLosses": 4,
+      "GameWins": 14,
+      "MatchCount": 7,
+      "MatchDraws": 0,
+      "MatchLosses": 0,
+      "MatchWins": 7,
+      "OpponentCount": 0,
+      "PhaseSortOrder": 1,
+      "Points": 21,
+      "Rank": 4,
+      "RoundNumber": 7,
+      "ID": 76191412,
+      "PhaseId": 404738,
+      "RoundId": 1419156,
+      "TeamId": 4191750,
+      "TournamentId": 403891,
+      "FormatId": "d312b6cd-1f2d-4d49-887c-8596673c43dd",
+      "FormatName": "Premier",
+      "PhaseName": null,
+      "MatchingMethodDescription": "Play Until X Wins",
+      "Round": "Round 7",
+      "Decklists": [
+        {
+          "DecklistId": "dcaebf69-b140-469d-9cd8-b491001715cc",
+          "PlayerId": 4177086,
+          "DecklistName": "Ahsoka Tano, Trust in the Force - Nevarro City, Restored",
+          "Format": "Premier",
+          "FormatId": "d312b6cd-1f2d-4d49-887c-8596673c43dd"
+        }
+      ],
+      "GameRecord": "14-4-0",
+      "MatchRecord": "7-0-0",
+      "FormatDescription": "Premier"
+    },
+    {
+      "Team": {
+        "Players": [
+          {
+            "TeamId": 4036438,
+            "ID": 4021774,
+            "ScreenName": "N/A",
+            "ProfileImageVersion": 0,
+            "DisplayName": "MistyOtter",
+            "DisplayNameLastFirst": "MistyOtter",
+            "Username": "MistyOtter",
+            "LanguageDescription": "Auto (English)",
+            "PronounsDescription": "He/Him"
+          }
+        ],
+        "ID": 4036438,
+        "Name": null,
+        "StatusDescription": "Qualified",
+        "IsActive": true
+      },
+      "DateCreated": "2026-07-25T02:06:22Z",
+      "MatchingMethod": 7,
+      "StandingsPublished": true,
+      "FinalTiebreaker": 4036438.0,
+      "OpponentGameWinPercentage": 0.5807276,
+      "OpponentMatchWinPercentage": 0.6734694,
+      "TeamGameWinPercentage": 0.875,
+      "GameCount": 16,
+      "GameDraws": 0,
+      "GameLosses": 2,
+      "GameWins": 14,
+      "MatchCount": 7,
+      "MatchDraws": 0,
+      "MatchLosses": 0,
+      "MatchWins": 7,
+      "OpponentCount": 0,
+      "PhaseSortOrder": 1,
+      "Points": 21,
+      "Rank": 5,
+      "RoundNumber": 7,
+      "ID": 76191413,
+      "PhaseId": 404738,
+      "RoundId": 1419156,
+      "TeamId": 4036438,
+      "TournamentId": 403891,
+      "FormatId": "d312b6cd-1f2d-4d49-887c-8596673c43dd",
+      "FormatName": "Premier",
+      "PhaseName": null,
+      "MatchingMethodDescription": "Play Until X Wins",
+      "Round": "Round 7",
+      "Decklists": [
+        {
+          "DecklistId": "b8242679-bee4-4850-b7ab-b49000fa4798",
+          "PlayerId": 4021774,
+          "DecklistName": "Admiral Piett, Commanding the Armada - Nadiri Dockyards",
+          "Format": "Premier",
+          "FormatId": "d312b6cd-1f2d-4d49-887c-8596673c43dd"
+        }
+      ],
+      "GameRecord": "14-2-0",
+      "MatchRecord": "7-0-0",
+      "FormatDescription": "Premier"
+    }
+  ],
+  "download": null
+}

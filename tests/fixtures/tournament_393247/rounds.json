@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1381069,
+    "name": "Round 1",
+    "is_started": true
+  },
+  {
+    "id": 1381070,
+    "name": "Round 2",
+    "is_started": true
+  },
+  {
+    "id": 1381071,
+    "name": "Round 3",
+    "is_started": true
+  },
+  {
+    "id": 1381072,
+    "name": "Round 4",
+    "is_started": true
+  },
+  {
+    "id": 1381073,
+    "name": "Round 5",
+    "is_started": true
+  },
+  {
+    "id": 1381074,
+    "name": "Round 6",
+    "is_started": true
+  },
+  {
+    "id": 1381075,
+    "name": "Round 7",
+    "is_started": true
+  },
+  {
+    "id": 1381076,
+    "name": "Round 8",
+    "is_started": true
+  },
+  {
+    "id": 1381077,
+    "name": "Round 9",
+    "is_started": true
+  },
+  {
+    "id": 1381078,
+    "name": "Round 10",
+    "is_started": true
+  },
+  {
+    "id": 1381079,
+    "name": "Round 11",
+    "is_started": true
+  },
+  {
+    "id": 1381080,
+    "name": "Round 12",
+    "is_started": true
+  },
+  {
+    "id": 1381081,
+    "name": "Quarterfinals",
+    "is_started": true
+  },
+  {
+    "id": 1381082,
+    "name": "Semifinals",
+    "is_started": true
+  },
+  {
+    "id": 1381083,
+    "name": "Finals",
+    "is_started": true
+  }
+]

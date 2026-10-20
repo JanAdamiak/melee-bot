@@ -1,0 +1,578 @@
+{
+  "draw": 1,
+  "recordsTotal": 400,
+  "recordsFiltered": 400,
+  "data": [
+    {
+      "Guid": "bdf7a84f-3262-436d-8bb8-b49101883cea",
+      "Competitors": [
+        {
+          "ID": 14500444,
+          "CheckedIn": null,
+          "GameByes": 0,
+          "GameWins": 2,
+          "ResultConfirmed": null,
+          "SortOrder": 0,
+          "TeamId": 4036438,
+          "Team": {
+            "ID": 4036438,
+            "Name": null,
+            "Players": [
+              {
+                "ID": 4021774,
+                "DisplayName": "MistyOtter",
+                "DisplayNameLastFirst": "MistyOtter",
+                "ProfileImageVersion": 0,
+                "Username": "MistyOtter",
+                "ScreenName": "N/A",
+                "TeamId": 4036438,
+                "LanguageDescription": "Auto (English)",
+                "PronounsDescription": "He/Him"
+              }
+            ],
+            "StatusDescription": "Qualified",
+            "IsActive": true
+          },
+          "GameWinsAndGameByes": 2,
+          "Decklists": [
+            {
+              "DecklistId": "b8242679-bee4-4850-b7ab-b49000fa4798",
+              "PlayerId": 4021774,
+              "DecklistName": "Admiral Piett, Commanding the Armada - Nadiri Dockyards",
+              "Format": "Premier",
+              "FormatId": "d312b6cd-1f2d-4d49-887c-8596673c43dd"
+            }
+          ]
+        },
+        {
+          "ID": 14500445,
+          "CheckedIn": null,
+          "GameByes": 0,
+          "GameWins": 0,
+          "ResultConfirmed": "2026-07-25T00:40:27Z",
+          "SortOrder": 1,
+          "TeamId": 4183045,
+          "Team": {
+            "ID": 4183045,
+            "Name": null,
+            "Players": [
+              {
+                "ID": 4168381,
+                "DisplayName": "BrassJackal",
+                "DisplayNameLastFirst": "BrassJackal",
+                "ProfileImageVersion": 0,
+                "Username": "BrassJackal",
+                "ScreenName": "N/A",
+                "TeamId": 4183045,
+                "LanguageDescription": "Auto (English)",
+                "PronounsDescription": "He/Him"
+              }
+            ],
+            "StatusDescription": "Active",
+            "IsActive": true
+          },
+          "GameWinsAndGameByes": 0,
+          "Decklists": [
+            {
+              "DecklistId": "de7f8b3e-f9ab-452e-836c-b491002fd954",
+              "PlayerId": 4168381,
+              "DecklistName": "Greef Karga, Gracious Magistrate - Data Vault",
+              "Format": "Premier",
+              "FormatId": "d312b6cd-1f2d-4d49-887c-8596673c43dd"
+            }
+          ]
+        }
+      ],
+      "ByeReason": null,
+      "DateCreated": "2026-07-25T00:40:27Z",
+      "FeatureMatch": true,
+      "Format": "Premier",
+      "FormatId": "d312b6cd-1f2d-4d49-887c-8596673c43dd",
+      "GameDraws": 0,
+      "HasResult": true,
+      "LossReason": null,
+      "MatchesPublished": true,
+      "PhaseId": 404738,
+      "PhaseSortOrder": 1,
+      "PodNumber": null,
+      "RoundId": 1419156,
+      "RoundName": null,
+      "RoundNumber": 7,
+      "SortOrder": null,
+      "TableLocation": null,
+      "TableNumber": 1,
+      "TableSection": null,
+      "TimeExtended": false,
+      "TimeExtensionMinutes": null,
+      "TournamentId": 403891,
+      "Type": 0,
+      "AcknowledgedDecklists": false,
+      "GhostMatch": false,
+      "AcknowledgedPlayers": false,
+      "ByeReasonDescription": null,
+      "LossReasonDescription": null,
+      "ResultString": "MistyOtter won 2-0-0",
+      "RoundDescription": "Round 7",
+      "TableNumberDescription": "1",
+      "TypeDescription": "Best of Three",
+      "FormatDescription": "Premier"
+    },
+    {
+      "Guid": "e0863397-bb14-4a80-aee0-b49101883cee",
+      "Competitors": [
+        {
+          "ID": 14500446,
+          "CheckedIn": null,
+          "GameByes": 0,
+          "GameWins": 0,
+          "ResultConfirmed": "2026-07-25T00:20:18Z",
+          "SortOrder": 0,
+          "TeamId": 3864393,
+          "Team": {
+            "ID": 3864393,
+            "Name": null,
+            "Players": [
+              {
+                "ID": 3849729,
+                "DisplayName": "GentleBirch",
+                "DisplayNameLastFirst": "GentleBirch",
+                "ProfileImageVersion": 0,
+                "Username": "GentleBirch",
+                "ScreenName": "N/A",
+                "TeamId": 3864393,
+                "LanguageDescription": "Auto (English)",
+                "PronounsDescription": "He/Him"
+              }
+            ],
+            "StatusDescription": "Qualified",
+            "IsActive": true
+          },
+          "GameWinsAndGameByes": 0,
+          "Decklists": [
+            {
+              "DecklistId": "785e6666-c482-4d8a-b9b1-b491000c8000",
+              "PlayerId": 3849729,
+              "DecklistName": "Grand Admiral Thrawn, ...How Unfortunate - Freetown",
+              "Format": "Premier",
+              "FormatId": "d312b6cd-1f2d-4d49-887c-8596673c43dd"
+            }
+          ]
+        },
+        {
+          "ID": 14500447,
+          "CheckedIn": null,
+          "GameByes": 0,
+          "GameWins": 2,
+          "ResultConfirmed": "2026-07-25T00:19:39Z",
+          "SortOrder": 1,
+          "TeamId": 4224798,
+          "Team": {
+            "ID": 4224798,
+            "Name": null,
+            "Players": [
+              {
+                "ID": 4210134,
+                "DisplayName": "PaleYak",
+                "DisplayNameLastFirst": "PaleYak",
+                "ProfileImageVersion": 0,
+                "Username": "PaleYak",
+                "ScreenName": "N/A",
+                "TeamId": 4224798,
+                "LanguageDescription": "Auto (English)",
+                "PronounsDescription": "He/Him"
+              }
+            ],
+            "StatusDescription": "Qualified",
+            "IsActive": true
+          },
+          "GameWinsAndGameByes": 2,
+          "Decklists": [
+            {
+              "DecklistId": "364f3baa-5e31-4bd6-89a2-b48f0141c42e",
+              "PlayerId": 4210134,
+              "DecklistName": "Director Krennic, Amidst My Achievement - Fortress of the Great Mothers",
+              "Format": "Premier",
+              "FormatId": "d312b6cd-1f2d-4d49-887c-8596673c43dd"
+            }
+          ]
+        }
+      ],
+      "ByeReason": null,
+      "DateCreated": "2026-07-25T00:20:18Z",
+      "FeatureMatch": false,
+      "Format": "Premier",
+      "FormatId": "d312b6cd-1f2d-4d49-887c-8596673c43dd",
+      "GameDraws": 0,
+      "HasResult": true,
+      "LossReason": null,
+      "MatchesPublished": true,
+      "PhaseId": 404738,
+      "PhaseSortOrder": 1,
+      "PodNumber": null,
+      "RoundId": 1419156,
+      "RoundName": null,
+      "RoundNumber": 7,
+      "SortOrder": null,
+      "TableLocation": null,
+      "TableNumber": 2,
+      "TableSection": null,
+      "TimeExtended": false,
+      "TimeExtensionMinutes": null,
+      "TournamentId": 403891,
+      "Type": 0,
+      "AcknowledgedDecklists": false,
+      "GhostMatch": false,
+      "AcknowledgedPlayers": false,
+      "ByeReasonDescription": null,
+      "LossReasonDescription": null,
+      "ResultString": "PaleYak won 2-0-0",
+      "RoundDescription": "Round 7",
+      "TableNumberDescription": "2",
+      "TypeDescription": "Best of Three",
+      "FormatDescription": "Premier"
+    },
+    {
+      "Guid": "6e90f910-e57e-4f93-a02f-b49101883cf3",
+      "Competitors": [
+        {
+          "ID": 14500448,
+          "CheckedIn": null,
+          "GameByes": 0,
+          "GameWins": 2,
+          "ResultConfirmed": "2026-07-25T00:27:07Z",
+          "SortOrder": 0,
+          "TeamId": 3864246,
+          "Team": {
+            "ID": 3864246,
+            "Name": null,
+            "Players": [
+              {
+                "ID": 3849582,
+                "DisplayName": "Noel Blackmoor",
+                "DisplayNameLastFirst": "Blackmoor, Noel",
+                "ProfileImageVersion": 0,
+                "Username": "JadeGlacier",
+                "ScreenName": "N/A",
+                "TeamId": 3864246,
+                "LanguageDescription": "English (English)",
+                "PronounsDescription": "He/Him"
+              }
+            ],
+            "StatusDescription": "Qualified",
+            "IsActive": true
+          },
+          "GameWinsAndGameByes": 2,
+          "Decklists": [
+            {
+              "DecklistId": "dfdf8b51-4bec-4c99-9504-b491002c035b",
+              "PlayerId": 3849582,
+              "DecklistName": "Luke Skywalker, Hero of Yavin - Data Vault",
+              "Format": "Premier",
+              "FormatId": "d312b6cd-1f2d-4d49-887c-8596673c43dd"
+            }
+          ]
+        },
+        {
+          "ID": 14500449,
+          "CheckedIn": null,
+          "GameByes": 0,
+          "GameWins": 1,
+          "ResultConfirmed": "2026-07-25T00:27:21Z",
+          "SortOrder": 1,
+          "TeamId": 4168466,
+          "Team": {
+            "ID": 4168466,
+            "Name": null,
+            "Players": [
+              {
+                "ID": 4153802,
+                "DisplayName": "TidalBirch",
+                "DisplayNameLastFirst": "TidalBirch",
+                "ProfileImageVersion": 0,
+                "Username": "TidalBirch",
+                "ScreenName": "N/A",
+                "TeamId": 4168466,
+                "LanguageDescription": "Auto (English)",
+                "PronounsDescription": "He/Him"
+              }
+            ],
+            "StatusDescription": "Qualified",
+            "IsActive": true
+          },
+          "GameWinsAndGameByes": 1,
+          "Decklists": [
+            {
+              "DecklistId": "01ba2b89-932f-49e3-a959-b49100302873",
+              "PlayerId": 4153802,
+              "DecklistName": "Ezra Bridger, It's Now or Never - Chopper Base",
+              "Format": "Premier",
+              "FormatId": "d312b6cd-1f2d-4d49-887c-8596673c43dd"
+            }
+          ]
+        }
+      ],
+      "ByeReason": null,
+      "DateCreated": "2026-07-25T00:27:21Z",
+      "FeatureMatch": false,
+      "Format": "Premier",
+      "FormatId": "d312b6cd-1f2d-4d49-887c-8596673c43dd",
+      "GameDraws": 0,
+      "HasResult": true,
+      "LossReason": null,
+      "MatchesPublished": true,
+      "PhaseId": 404738,
+      "PhaseSortOrder": 1,
+      "PodNumber": null,
+      "RoundId": 1419156,
+      "RoundName": null,
+      "RoundNumber": 7,
+      "SortOrder": null,
+      "TableLocation": null,
+      "TableNumber": 3,
+      "TableSection": null,
+      "TimeExtended": false,
+      "TimeExtensionMinutes": null,
+      "TournamentId": 403891,
+      "Type": 0,
+      "AcknowledgedDecklists": false,
+      "GhostMatch": false,
+      "AcknowledgedPlayers": false,
+      "ByeReasonDescription": null,
+      "LossReasonDescription": null,
+      "ResultString": "Noel Blackmoor won 2-1-0",
+      "RoundDescription": "Round 7",
+      "TableNumberDescription": "3",
+      "TypeDescription": "Best of Three",
+      "FormatDescription": "Premier"
+    },
+    {
+      "Guid": "8df7068e-b653-4f33-ba6a-b49101883cf8",
+      "Competitors": [
+        {
+          "ID": 14500450,
+          "CheckedIn": null,
+          "GameByes": 0,
+          "GameWins": 2,
+          "ResultConfirmed": "2026-07-25T00:45:41Z",
+          "SortOrder": 0,
+          "TeamId": 4105392,
+          "Team": {
+            "ID": 4105392,
+            "Name": null,
+            "Players": [
+              {
+                "ID": 4090728,
+                "DisplayName": "ArcticGlacier",
+                "DisplayNameLastFirst": "ArcticGlacier",
+                "ProfileImageVersion": 0,
+                "Username": "ArcticGlacier",
+                "ScreenName": "N/A",
+                "TeamId": 4105392,
+                "LanguageDescription": "English (English)",
+                "PronounsDescription": null
+              }
+            ],
+            "StatusDescription": "Qualified",
+            "IsActive": true
+          },
+          "GameWinsAndGameByes": 2,
+          "Decklists": [
+            {
+              "DecklistId": "4193d510-41c6-4a0e-ad99-b49100227cd4",
+              "PlayerId": 4090728,
+              "DecklistName": "Cad Bane, Still Faster than You - Fortress of the Great Mothers",
+              "Format": "Premier",
+              "FormatId": "d312b6cd-1f2d-4d49-887c-8596673c43dd"
+            }
+          ]
+        },
+        {
+          "ID": 14500451,
+          "CheckedIn": null,
+          "GameByes": 0,
+          "GameWins": 0,
+          "ResultConfirmed": "2026-07-25T00:45:34Z",
+          "SortOrder": 1,
+          "TeamId": 4174171,
+          "Team": {
+            "ID": 4174171,
+            "Name": null,
+            "Players": [
+              {
+                "ID": 4159507,
+                "DisplayName": "BoldTiger",
+                "DisplayNameLastFirst": "BoldTiger",
+                "ProfileImageVersion": 14,
+                "Username": "BoldTiger",
+                "ScreenName": "N/A",
+                "TeamId": 4174171,
+                "LanguageDescription": "English (English)",
+                "PronounsDescription": "He/Him"
+              }
+            ],
+            "StatusDescription": "Active",
+            "IsActive": true
+          },
+          "GameWinsAndGameByes": 0,
+          "Decklists": [
+            {
+              "DecklistId": "97e3428f-fc82-4649-8027-b4900174ff5a",
+              "PlayerId": 4159507,
+              "DecklistName": "Ahsoka Tano, Trust in the Force - Nevarro City, Restored",
+              "Format": "Premier",
+              "FormatId": "d312b6cd-1f2d-4d49-887c-8596673c43dd"
+            }
+          ]
+        }
+      ],
+      "ByeReason": null,
+      "DateCreated": "2026-07-25T00:45:41Z",
+      "FeatureMatch": true,
+      "Format": "Premier",
+      "FormatId": "d312b6cd-1f2d-4d49-887c-8596673c43dd",
+      "GameDraws": 0,
+      "HasResult": true,
+      "LossReason": null,
+      "MatchesPublished": true,
+      "PhaseId": 404738,
+      "PhaseSortOrder": 1,
+      "PodNumber": null,
+      "RoundId": 1419156,
+      "RoundName": null,
+      "RoundNumber": 7,
+      "SortOrder": null,
+      "TableLocation": null,
+      "TableNumber": 4,
+      "TableSection": null,
+      "TimeExtended": false,
+      "TimeExtensionMinutes": null,
+      "TournamentId": 403891,
+      "Type": 0,
+      "AcknowledgedDecklists": false,
+      "GhostMatch": false,
+      "AcknowledgedPlayers": false,
+      "ByeReasonDescription": null,
+      "LossReasonDescription": null,
+      "ResultString": "ArcticGlacier won 2-0-0",
+      "RoundDescription": "Round 7",
+      "TableNumberDescription": "4",
+      "TypeDescription": "Best of Three",
+      "FormatDescription": "Premier"
+    },
+    {
+      "Guid": "f886c681-ce78-4321-879d-b49101883cff",
+      "Competitors": [
+        {
+          "ID": 14500452,
+          "CheckedIn": null,
+          "GameByes": 0,
+          "GameWins": 2,
+          "ResultConfirmed": "2026-07-25T00:38:36Z",
+          "SortOrder": 0,
+          "TeamId": 3877349,
+          "Team": {
+            "ID": 3877349,
+            "Name": null,
+            "Players": [
+              {
+                "ID": 3862685,
+                "DisplayName": "SableMeadow",
+                "DisplayNameLastFirst": "SableMeadow",
+                "ProfileImageVersion": 0,
+                "Username": "SableMeadow",
+                "ScreenName": "N/A",
+                "TeamId": 3877349,
+                "LanguageDescription": "Auto (English)",
+                "PronounsDescription": "He/Him"
+              }
+            ],
+            "StatusDescription": "Qualified",
+            "IsActive": true
+          },
+          "GameWinsAndGameByes": 2,
+          "Decklists": [
+            {
+              "DecklistId": "8c2a99f4-c42b-4ccb-a669-b49000e9c279",
+              "PlayerId": 3862685,
+              "DecklistName": "Cad Bane, Still Faster than You - Nevarro City, Restored",
+              "Format": "Premier",
+              "FormatId": "d312b6cd-1f2d-4d49-887c-8596673c43dd"
+            }
+          ]
+        },
+        {
+          "ID": 14500453,
+          "CheckedIn": null,
+          "GameByes": 0,
+          "GameWins": 1,
+          "ResultConfirmed": null,
+          "SortOrder": 1,
+          "TeamId": 3864428,
+          "Team": {
+            "ID": 3864428,
+            "Name": null,
+            "Players": [
+              {
+                "ID": 3849764,
+                "DisplayName": "FrostyBeacon31",
+                "DisplayNameLastFirst": "FrostyBeacon31",
+                "ProfileImageVersion": 0,
+                "Username": "FrostyBeacon31",
+                "ScreenName": "N/A",
+                "TeamId": 3864428,
+                "LanguageDescription": "Auto (English)",
+                "PronounsDescription": "He/Him"
+              }
+            ],
+            "StatusDescription": "Qualified",
+            "IsActive": true
+          },
+          "GameWinsAndGameByes": 1,
+          "Decklists": [
+            {
+              "DecklistId": "2591bd4d-c5ba-47e0-a309-b490014204c1",
+              "PlayerId": 3849764,
+              "DecklistName": "Ahsoka Tano, Trust in the Force - Fortress of the Great Mothers",
+              "Format": "Premier",
+              "FormatId": "d312b6cd-1f2d-4d49-887c-8596673c43dd"
+            }
+          ]
+        }
+      ],
+      "ByeReason": null,
+      "DateCreated": "2026-07-25T00:38:36Z",
+      "FeatureMatch": false,
+      "Format": "Premier",
+      "FormatId": "d312b6cd-1f2d-4d49-887c-8596673c43dd",
+      "GameDraws": 0,
+      "HasResult": true,
+      "LossReason": null,
+      "MatchesPublished": true,
+      "PhaseId": 404738,
+      "PhaseSortOrder": 1,
+      "PodNumber": null,
+      "RoundId": 1419156,
+      "RoundName": null,
+      "RoundNumber": 7,
+      "SortOrder": null,
+      "TableLocation": null,
+      "TableNumber": 5,
+      "TableSection": null,
+      "TimeExtended": false,
+      "TimeExtensionMinutes": null,
+      "TournamentId": 403891,
+      "Type": 0,
+      "AcknowledgedDecklists": false,
+      "GhostMatch": false,
+      "AcknowledgedPlayers": false,
+      "ByeReasonDescription": null,
+      "LossReasonDescription": null,
+      "ResultString": "SableMeadow won 2-1-0",
+      "RoundDescription": "Round 7",
+      "TableNumberDescription": "5",
+      "TypeDescription": "Best of Three",
+      "FormatDescription": "Premier"
+    }
+  ],
+  "download": null
+}

@@ -1,0 +1,24 @@
+# compiled localisation files:
+*.mo
+
+*.pyc
+__pycache__
+db.sqlite3
+*.db
+*.db.*.bak
+
+.env
+/static
+.idea/**
+
+/htmlcov/
+
+docker-compose.override.yml
+/.envrc
+.bin
+
+.DS_Store
+
+# demo_fake_melee
+.env.demo
+/demo_fake_melee/state.json
